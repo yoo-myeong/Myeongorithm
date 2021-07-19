@@ -34,3 +34,5 @@
 프로그래머스_[치킨거리](https://github.com/yoo-myeong/Myeongorithm/blob/main/%EB%B0%B1%EC%A4%80_%EC%B9%98%ED%82%A8%EA%B1%B0%EB%A6%AC.py)
 
 프로그래머스_[특정거리의도시찾기](https://github.com/yoo-myeong/Myeongorithm/blob/main/%EB%B0%B1%EC%A4%80_%ED%8A%B9%EC%A0%95%EA%B1%B0%EB%A6%AC%EC%9D%98%EB%8F%84%EC%8B%9C%EC%B0%BE%EA%B8%B0.py)
+
+백준_[연구소](https://github.com/yoo-myeong/Myeongorithm/blob/main/%EB%B0%B1%EC%A4%80_%EC%97%B0%EA%B5%AC%EC%86%8C.py)
