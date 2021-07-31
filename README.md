@@ -54,6 +54,6 @@
 
 백준_[연구소](https://github.com/yoo-myeong/Myeongorithm/blob/main/%EB%B0%B1%EC%A4%80_%EC%97%B0%EA%B5%AC%EC%86%8C.py)
 
-백준_[경쟁적전영](https://github.com/yoo-myeong/Myeongorithm/blob/main/%EB%B0%B1%EC%A4%80_%EA%B2%BD%EC%9F%81%EC%A0%81%EC%A0%84%EC%97%BC.py)
+백준_[경쟁적전](https://github.com/yoo-myeong/Myeongorithm/blob/main/%EB%B0%B1%EC%A4%80_%EA%B2%BD%EC%9F%81%EC%A0%81%EC%A0%84%EC%97%BC.py)
 
 프로그래머스_[괄호변환](https://github.com/yoo-myeong/Myeongorithm/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EA%B4%84%ED%98%B8%EB%B3%80%ED%99%98.py)
