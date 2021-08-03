@@ -62,3 +62,5 @@
 
 백준_[감시피하기](https://github.com/yoo-myeong/Myeongorithm/blob/main/%EB%B0%B1%EC%A4%80_%EA%B0%90%EC%8B%9C%ED%94%BC%ED%95%98%EA%B8%B0.py
 )
+
+백준_[인구이동](https://github.com/yoo-myeong/Myeongorithm/blob/main/%EB%B0%B1%EC%A4%80_%EC%9D%B8%EA%B5%AC%EC%9D%B4%EB%8F%99.py)
