@@ -68,3 +68,5 @@
 백준_[카드정렬하기](https://github.com/yoo-myeong/Myeongorithm/blob/main/%EB%B0%B1%EC%A4%80_%EC%B9%B4%EB%93%9C%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py)
 
 프로그래머스_[실패율](https://github.com/yoo-myeong/Myeongorithm/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%8B%A4%ED%8C%A8%EC%9C%A8.py)
+
+백준_[정삼각형](https://github.com/yoo-myeong/Myeongorithm/blob/main/%EB%B0%B1%EC%A4%80_%EC%A0%95%EC%82%BC%EA%B0%81%ED%98%95.py)
