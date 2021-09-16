@@ -65,3 +65,6 @@
 프로그래머스_[실패율](https://github.com/yoo-myeong/Myeongorithm/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%8B%A4%ED%8C%A8%EC%9C%A8.py)
 
 백준_[정삼각형](https://github.com/yoo-myeong/Myeongorithm/blob/main/%EB%B0%B1%EC%A4%80_%EC%A0%95%EC%82%BC%EA%B0%81%ED%98%95.py)
+
+
+프로그래머스_[[1차] 뉴스 클러스터링](https://github.com/yoo-myeong/Myeongorithm/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%5B1%EC%B0%A8%5D%20%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.py)
