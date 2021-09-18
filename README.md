@@ -70,4 +70,4 @@
 
 프로그래머스_[메뉴리뉴얼](https://github.com/yoo-myeong/Myeongorithm/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EB%A9%94%EB%89%B4%EB%A6%AC%EB%89%B4%EC%96%BC.py)
 
-SWEA_[view](https://github.com/yoo-myeong/Myeongorithm/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EB%A9%94%EB%89%B4%EB%A6%AC%EB%89%B4%EC%96%BC.py)
+SWEA_[view](./SWEA_view.py)
