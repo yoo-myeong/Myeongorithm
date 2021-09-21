@@ -74,3 +74,5 @@ SWEA_[view](./SWEA_view.py)
 
 백준_[주사위굴리기](
 https://github.com/yoo-myeong/Myeongorithm/blob/main/%EB%B0%B1%EC%A4%80_%EC%A3%BC%EC%82%AC%EC%9C%84%EA%B5%B4%EB%A6%AC%EA%B8%B0.py)
+
+백준_[테트로미노](https://github.com/yoo-myeong/Myeongorithm/blob/main/%EB%B0%B1%EC%A4%80_%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8.py)
