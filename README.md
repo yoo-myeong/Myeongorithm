@@ -82,3 +82,5 @@ https://github.com/yoo-myeong/Myeongorithm/blob/main/%EB%B0%B1%EC%A4%80_%EC%A3%B
 프로그래머스_[수식최대화](https://github.com/yoo-myeong/Myeongorithm/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%88%98%EC%8B%9D%EC%B5%9C%EB%8C%80%ED%99%94.py)
 
 프로그래머스_[튜플](https://github.com/yoo-myeong/Myeongorithm/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%ED%8A%9C%ED%94%8C.py)
+
+백준_[행운의문자열](https://github.com/yoo-myeong/Myeongorithm/blob/main/%EB%B0%B1%EC%A4%80_%ED%96%89%EC%9A%B4%EC%9D%98%EB%AC%B8%EC%9E%90%EC%97%B4.py)
