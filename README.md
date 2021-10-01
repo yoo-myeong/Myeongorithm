@@ -94,3 +94,5 @@ https://github.com/yoo-myeong/Myeongorithm/blob/main/%EB%B0%B1%EC%A4%80_%EC%A3%B
 백준_[DSLR](./백준_DSLR.py)
 
 백준_[톱니바퀴](./백준_톱니바퀴.py)
+
+백준_[나무재테크](./나무재테크.py)
