@@ -104,3 +104,5 @@ https://github.com/yoo-myeong/Myeongorithm/blob/main/%EB%B0%B1%EC%A4%80_%EC%A3%B
 백준_[상어초등학교](./백준_상어초등학교.py)
 
 백준_[마법사상어와비바라기](./백준_마법사상어와비바라기.py)
+
+백준_[마법사상어와파이어스톰](./백준_마법사상어와파이어스톰.py)
