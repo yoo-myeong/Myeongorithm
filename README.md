@@ -111,4 +111,6 @@ https://github.com/yoo-myeong/Myeongorithm/blob/main/%EB%B0%B1%EC%A4%80_%EC%A3%B
 
 백준_[상어중학교](./백준_상어중학교.py)
 
-백준_[사다리조작](./백준_사다리조작.)
+백준_[사다리조작](./백준_사다리조작.py)
+
+백준_[드래곤커브](./백준_드래곤커브.py)
