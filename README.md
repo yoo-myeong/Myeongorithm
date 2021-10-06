@@ -116,3 +116,5 @@ https://github.com/yoo-myeong/Myeongorithm/blob/main/%EB%B0%B1%EC%A4%80_%EC%A3%B
 백준_[이차원연산과배열](./백준_이차원연산과배열.py)
 
 백준_[드래곤커브](./백준_드래곤커브.py)
+
+백준_[연구소3](./백준_연구소3.py)
