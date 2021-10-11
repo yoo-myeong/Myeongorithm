@@ -124,3 +124,5 @@ https://github.com/yoo-myeong/Myeongorithm/blob/main/%EB%B0%B1%EC%A4%80_%EC%A3%B
 백준_[원판돌리기](./백준_원판돌리기.py)
 
 백준_[2048](./백준_2048.py)
+
+프로그래머스_[오픈채팅방](./프로그래머스_오픈채팅방.py)
