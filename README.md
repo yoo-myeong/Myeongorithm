@@ -134,3 +134,5 @@ https://github.com/yoo-myeong/Myeongorithm/blob/main/%EB%B0%B1%EC%A4%80_%EC%A3%B
 프로그래머스_[다단계칫솔](./프로그래머스_다단계칫솔.py)
 
 프로그래머스_[표편집](./프로그래머스_표편집.py)
+
+프로그래머스_[보석쇼핑](./프로그래머스_보석쇼핑.py)
