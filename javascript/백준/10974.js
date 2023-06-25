@@ -1,36 +1,32 @@
 const fs = require("fs")
 
-const input = fs.readFileSync("/dev/stdin").toString()
-// const input = fs.readFileSync("./dev/stdin").toString()
+// const input = fs.readFileSync("/dev/stdin").toString()
+const input = fs.readFileSync("../../dev/stdin").toString()
 
 const num = parseInt(input)
 
-let arr = []
-for (let i = 0; i < num; i++) arr.push(i+1)
-// console.log(arr)
+const getPermutation = (arr, targetLength) => {
+    let output = []
 
-/**
- * @param {number[]} perm 
- * @param {number[]} rests 
- * @param {number[][]} output 
- * 
- * @return {number[][]}
- */
-const getPermutation = (perm, rests, output) => {
-    if (rests.length === 0) {
-        return output.push(perm)
+    function permutate (rests, perm) {
+        if (perm.length === targetLength) {
+            return output.push(perm)
+        }
+
+        rests.forEach((v, i) => {
+            const rest = [...rests.slice(0, i), ...rests.slice(i+1)]
+            permutate(rest, [...perm, v])
+        })
     }
 
-    rests.forEach((value, index) => {
-        const rest = [...rests.slice(0, index), ...rests.slice(index+1)]
-        getPermutation([...perm, value], rest, output)
-    })
+    permutate(arr, [])
+    return output
 }
 
-const output = []
-getPermutation([], arr, output)
+let arr = []
+for (let i = 1; i<=num; i++) arr.push(i)
+const permutations = getPermutation(arr, num)
 
-// console.log(output)
-output.forEach(perm => {
-    console.log(perm.join(' '))
+permutations.forEach(it => {
+    console.log(it.join(' '))
 })

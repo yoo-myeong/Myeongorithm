@@ -9,7 +9,7 @@ const alphabets = input[1].split(' ').sort()
 const getPermutations = (arr, permLength) => {
     let output = []
 
-    function permutate(rests, perm) {
+    function permute(rests, perm) {
         if(perm.length === permLength) {
             if(!perm.some(it => it === 'a' || it === 'e' || it === 'i' || it === 'o' || it === 'u')) return
             if(perm.filter(it => it !== 'a' && it !== 'e' && it !== 'i' && it !== 'o' && it !== 'u').length <2) return
@@ -18,11 +18,11 @@ const getPermutations = (arr, permLength) => {
 
         rests.forEach((v,i)=> {
             const rest = [...rests.slice(i+1)]
-            permutate(rest, [...perm, v])
+            permute(rest, [...perm, v])
         })
     }
 
-    permutate(arr, [])
+    permute(arr, [])
     return output
 }
 
